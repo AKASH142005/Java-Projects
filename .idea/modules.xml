@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BusReservatioSystem/BusReservatioSystem.iml" filepath="$PROJECT_DIR$/BusReservatioSystem/BusReservatioSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BusReservationSystem/BusReservatioSystem.iml" filepath="$PROJECT_DIR$/BusReservationSystem/BusReservatioSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Projects.iml" filepath="$PROJECT_DIR$/.idea/Java-Projects.iml" />
     </modules>
   </component>
